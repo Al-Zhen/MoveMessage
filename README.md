@@ -1,1 +1,1 @@
-[![Run on Replit](https://replit.com/badge/github/your-username/your-repo)](https://replit.com/github/your-username/your-repo)
+[![Run on Replit](https://replit.com/@zhenalexander/TCCMessageBot)](https://replit.com/@zhenalexander/TCCMessageBot)
